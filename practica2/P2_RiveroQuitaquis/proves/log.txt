@@ -1,0 +1,132 @@
+
+Practica 2
+	1- Creacio de l'arbre.
+	2- Enmagatzament de l'arbre.
+	3- Lectura de l'arbre.
+	4- Analisis de paraules de l'arbre.
+	5- Sortida.
+>>> 
+Opcio1
+Fitxer de configuracio de la llista de fitxers a analitzar?
+>>> S'ha carregat el fitxer de configuracio.
+Creant l'arbre...
+S'han insert 34254 nodes
+De 10 fitxers.
+La paraula més llarga té 30 lletres.
+
+Practica 2
+	1- Creacio de l'arbre.
+	2- Enmagatzament de l'arbre.
+	3- Lectura de l'arbre.
+	4- Analisis de paraules de l'arbre.
+	5- Sortida.
+>>> 
+Opcio2
+Nom del fitxer on vol desar l'arbre?
+>>> Arbre enmagatzemat correctament!
+
+Practica 2
+	1- Creacio de l'arbre.
+	2- Enmagatzament de l'arbre.
+	3- Lectura de l'arbre.
+	4- Analisis de paraules de l'arbre.
+	5- Sortida.
+>>> 
+Opcio3
+Nom del fitxer amb l'arbre a llegir?
+>>> S'ha esborrat l'arbre anterior, s'inicialitzarà un de nou.
+Hi han 34254 nodes guardats.
+S'han llegit 10 fitxers.
+La paraula més llarga te 30 lletres.
+
+Practica 2
+	1- Creacio de l'arbre.
+	2- Enmagatzament de l'arbre.
+	3- Lectura de l'arbre.
+	4- Analisis de paraules de l'arbre.
+	5- Sortida.
+>>> 
+Opcio4
+
+Anàlisis de l'arbre
+	1- Dibuixar la probabilitat d'una determinada
+	   paraula segons el fitxer.
+	2- Dibuixar la probabilitat d'aparició de les
+	   paraules als textos segons el nombre de lletres que tenen.
+	3- Enrere.
+>>> 
+Sub-opcio1
+Paraula a buscar a l'arbre?
+>>> La paraula of surt un total de 32386 vegades.
+Al fitxer 0 surt 3049 vegades, prob: 0.094146 
+Al fitxer 1 surt 3363 vegades, prob: 0.103841 
+Al fitxer 2 surt 2464 vegades, prob: 0.076082 
+Al fitxer 3 surt 673 vegades, prob: 0.020781 
+Al fitxer 4 surt 3652 vegades, prob: 0.112765 
+Al fitxer 5 surt 6964 vegades, prob: 0.215031 
+Al fitxer 6 surt 3483 vegades, prob: 0.107546 
+Al fitxer 7 surt 3724 vegades, prob: 0.114988 
+Al fitxer 8 surt 638 vegades, prob: 0.019700 
+Al fitxer 9 surt 4376 vegades, prob: 0.135120 
+The ordered vector is: 0.215031 0.135120 0.114988 0.112765 0.107546 0.103841 0.094146 0.076082 0.020781 0.019700 
+
+Enviat....
+
+Practica 2
+	1- Creacio de l'arbre.
+	2- Enmagatzament de l'arbre.
+	3- Lectura de l'arbre.
+	4- Analisis de paraules de l'arbre.
+	5- Sortida.
+>>> 
+Opcio4
+
+Anàlisis de l'arbre
+	1- Dibuixar la probabilitat d'una determinada
+	   paraula segons el fitxer.
+	2- Dibuixar la probabilitat d'aparició de les
+	   paraules als textos segons el nombre de lletres que tenen.
+	3- Enrere.
+>>> 
+Sub-opcio2
+Paraula amb 1 lletres: 26
+Paraula amb 2 lletres: 222
+Paraula amb 3 lletres: 932
+Paraula amb 4 lletres: 2373
+Paraula amb 5 lletres: 3814
+Paraula amb 6 lletres: 5117
+Paraula amb 7 lletres: 5420
+Paraula amb 8 lletres: 5121
+Paraula amb 9 lletres: 4190
+Paraula amb 10 lletres: 3027
+Paraula amb 11 lletres: 1890
+Paraula amb 12 lletres: 1112
+Paraula amb 13 lletres: 574
+Paraula amb 14 lletres: 246
+Paraula amb 15 lletres: 110
+Paraula amb 16 lletres: 39
+Paraula amb 17 lletres: 17
+Paraula amb 18 lletres: 9
+Paraula amb 19 lletres: 8
+Paraula amb 20 lletres: 2
+Paraula amb 21 lletres: 2
+Paraula amb 22 lletres: 0
+Paraula amb 23 lletres: 1
+Paraula amb 24 lletres: 0
+Paraula amb 25 lletres: 0
+Paraula amb 26 lletres: 1
+Paraula amb 27 lletres: 0
+Paraula amb 28 lletres: 0
+Paraula amb 29 lletres: 0
+Paraula amb 30 lletres: 1
+
+Enviat....
+
+Practica 2
+	1- Creacio de l'arbre.
+	2- Enmagatzament de l'arbre.
+	3- Lectura de l'arbre.
+	4- Analisis de paraules de l'arbre.
+	5- Sortida.
+>>> 
+Fins aviat!

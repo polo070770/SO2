@@ -1,0 +1,29 @@
+100 archivos -- i7 (8 procesadores a 3.2GHz)
+
+1 hilo: 
+- CPU = 20.400000s
+- Cro = 20.467521s
+
+2 hilos:
+- CPU = 21.020000s
+- Cro = 10.601243s
+
+4 hilos:
+- CPU = 24.870000s
+- Cro =  6.412900s
+
+6 hilos:
+- CPU = 35.850000s
+- Cro =  6.848511s
+
+8 hilos:
+- CPU = 45.510000s
+- Cro =  7.247781s
+
+16 hilos:
+- CPU = 45.470000s
+- Cro = 10.086878s
+
+32 hilos:
+- CPU = 53.010000s
+- Cro = 11.979215s

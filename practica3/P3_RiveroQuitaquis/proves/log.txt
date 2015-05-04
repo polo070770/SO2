@@ -1,0 +1,80 @@
+
+Practica 3
+	1- Creacio de l'arbre.
+	2- Enmagatzament de l'arbre.
+	3- Lectura de l'arbre.
+	4- Analisis de paraules de l'arbre.
+	5- Sortida.
+>>> 
+Opcio1
+Fitxer de configuracio de la llista de fitxers a analitzar?
+>>> S'ha carregat el fitxer de configuracio.
+Creant l'arbre...
+Procesant fitxer 0
+Procesant fitxer 1
+Procesant fitxer 2
+Procesant fitxer 3
+Procesant fitxer 4
+Procesant fitxer 5
+Procesant fitxer 6
+Procesant fitxer 7
+Procesant fitxer 8
+Procesant fitxer 9
+Procesant fitxer 10
+Procesant fitxer 11
+Procesant fitxer 12
+Procesant fitxer 13
+Procesant fitxer 14
+Procesant fitxer 15
+Procesant fitxer 16
+Procesant fitxer 17
+Procesant fitxer 18
+Procesant fitxer 19
+Procesant fitxer 20
+Procesant fitxer 21
+Procesant fitxer 22
+Procesant fitxer 23
+Procesant fitxer 24
+Procesant fitxer 25
+Procesant fitxer 26
+Procesant fitxer 27
+Procesant fitxer 28
+Procesant fitxer 29
+Procesant fitxer 30
+Procesant fitxer 31
+Procesant fitxer 32
+Procesant fitxer 33
+Procesant fitxer 34
+Procesant fitxer 35
+Procesant fitxer 36
+Procesant fitxer 37
+Procesant fitxer 38
+Procesant fitxer 39
+Procesant fitxer 40
+Procesant fitxer 41
+Procesant fitxer 42
+Procesant fitxer 43
+Procesant fitxer 44
+Procesant fitxer 45
+Procesant fitxer 46
+Procesant fitxer 47
+Procesant fitxer 48
+Procesant fitxer 49
+
+S'han insert 101353 nodes
+De 50 fitxers.
+La paraula més llarga té 27 lletres.
+Temps de CPU: 103.150000 seconds
+Temps cronologic = 77.007283 seconds
+
+Practica 3
+	1- Creacio de l'arbre.
+	2- Enmagatzament de l'arbre.
+	3- Lectura de l'arbre.
+	4- Analisis de paraules de l'arbre.
+	5- Sortida.
+>>> 
+Sortint del programa... 
+	Eliminant arbre!!
+
+Fins aviat!

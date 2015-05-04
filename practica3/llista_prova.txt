@@ -1,0 +1,6 @@
+5
+./dir/fitxer3.txt
+./dir/fitxer4.txt
+./dir/fitxer2.txt
+./dir/fitxer5.txt
+./dir/fitxer1.txt
